@@ -25,9 +25,9 @@ int		main()
 
 	int		********nbr8 = &nbr7;
 
-	int		*********nbr9 = &nbr8;
+	int		*********nbr = &nbr8;
 
-	ft_ultimate_ft(nbr9);
+	ft_ultimate_ft(nbr);
 	printf("%d\n", x);
 	return (0);
 }
